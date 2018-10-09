@@ -11,7 +11,7 @@
 
 
 ## 使用方法
-* 在项目目录下 python3 -c **你的问题** -s **你的id**
+* 在项目目录下 python3 Kia.py -c **你的问题** -s **你的id**
 ```
 >python3 Kia.py -c 你好啊 -s 21
 Building prefix dict from the default dictionary ...
