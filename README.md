@@ -16,5 +16,4 @@ aiml|pip install aiml|不能直接用。但带有Alice的英文模板库。
 眼见为实，上图：<br>
 ![示例聊天图片](https://github.com/yaleimeng/py3Aiml_Chinese/blob/master/alice.png)
 
-大家如果有疑问可发Issue与我交流，若有完善，提PullRequest更加欢迎。</br>
-现在Chatbot方面**又有[ChatScript](https://github.com/ChatScript/ChatScript)可选**。只可惜关于中文改造内容也比较少。欢迎一起探讨。
+
